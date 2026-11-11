@@ -1,0 +1,9 @@
+# Local Python environment and caches
+.venv/
+.tmp/
+__pycache__/
+*.py[cod]
+
+# Runtime records, captured face images, and downloaded model weights
+data/
+
